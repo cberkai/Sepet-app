@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  background-image: url(../src/background/vecteezy.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialniased;
+  -moz-osx-font-smoothing: grayscale;
+}
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
